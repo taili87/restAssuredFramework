@@ -49,7 +49,7 @@ public class FileAndEnv {
 		return fileandenv;
 	}
 
-	// Create a method to configure
+	// Create a method to configure-0u
 	public static Map<String, String> getConfigReader() {
 
 		if (fileandenv == null) {

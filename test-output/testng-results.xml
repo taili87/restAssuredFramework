@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="156" started-at="2020-06-28T23:24:43Z" finished-at="2020-06-28T23:24:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="156" started-at="2020-06-28T23:24:43Z" finished-at="2020-06-28T23:24:43Z">
+      <class name="baseTest.BaseTest">
+        <test-method status="PASS" signature="utilsTest()[pri:0, instance:baseTest.BaseTest@42e26948]" name="utilsTest" duration-ms="9" started-at="2020-06-28T23:24:43Z" finished-at="2020-06-28T23:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utilsTest -->
+        <test-method status="PASS" signature="utilsTestOne()[pri:0, instance:baseTest.BaseTest@42e26948]" name="utilsTestOne" duration-ms="2" started-at="2020-06-28T23:24:43Z" finished-at="2020-06-28T23:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utilsTestOne -->
+        <test-method status="PASS" signature="utilsTestTwo()[pri:0, instance:baseTest.BaseTest@42e26948]" name="utilsTestTwo" duration-ms="1" started-at="2020-06-28T23:24:43Z" finished-at="2020-06-28T23:24:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utilsTestTwo -->
+      </class> <!-- baseTest.BaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
