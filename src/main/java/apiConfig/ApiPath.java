@@ -12,5 +12,7 @@ public class ApiPath {
 		public static final String CREATE_USERS = "/api/users";
 		//DELETE
 		public static final String DELETE_USERS = "/api/users/2";
+		
+		
 	}
 }
